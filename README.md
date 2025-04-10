@@ -43,7 +43,6 @@
 
 <br clear="both">
 
-
 ## 🛠 &nbsp;Languages and Tools
 
 <img alt="Night Coding" src="./src/ed966fe8bae50158db4a7fa7a8412851.gif" align="right" width="320" height="500"/>
@@ -61,9 +60,13 @@
 
 ###
 
+###
+
 ### 📚 Frameworks and Libraries
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Bulma](https://img.shields.io/badge/bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white)&nbsp;
+
+###
 
 ###
 
@@ -73,6 +76,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
+
+###
 
 ###
 
