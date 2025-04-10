@@ -46,7 +46,7 @@
 
 ## 🛠 &nbsp;Languages and Tools
 
-<img alt="Night Coding" src="./src/ed966fe8bae50158db4a7fa7a8412851.gif" align="right" width="300" />
+<img alt="Night Coding" src="./src/ed966fe8bae50158db4a7fa7a8412851.gif" align="right" width="340" height="500"/>
 
 ### 🌐 Programming Languages
 
