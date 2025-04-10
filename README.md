@@ -48,9 +48,6 @@
 
 <img alt="Night Coding" src="./src/ed966fe8bae50158db4a7fa7a8412851.gif" align="right" width="300" />
 
-
-<br clear="both">
-
 ### 🌐 Programming Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -62,13 +59,13 @@
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 
-<br clear="both">
+###
 
 ### 📚 Frameworks and Libraries
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Bulma](https://img.shields.io/badge/bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white)&nbsp;
 
-<br clear="both">
+###
 
 ### ⚙️ Tools and Technologies
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
@@ -77,7 +74,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 
-<br clear="both">
+###
 
 ### 💻 IDEs
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
