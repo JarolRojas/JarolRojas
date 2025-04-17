@@ -99,9 +99,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarolRojas&radius=16&area=true&order=5&bg_color=whitout&line=945db7&point=e38c00&color=945db7&title_color=945db7&area_color=ff6e96&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
 <div align=center>
 <img src="https://raw.githubusercontent.com/JarolRojas/JarolRojas/output/snake.svg" alt="Snake animation" />
   
