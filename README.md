@@ -87,7 +87,7 @@
 
 <br clear="both">
 
-## GitHub Stats
+## 🌟 GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=jarolrojas&theme=dark&show_icons=true&count_private=true">
