@@ -85,6 +85,7 @@
 
 ###
 
+<br clear="both">
 
 ## GitHub Stats
 
