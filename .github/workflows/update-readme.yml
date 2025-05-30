@@ -1,0 +1,22 @@
+name: Actualizar README con skills
+
+on:
+  push:
+    paths:
+      - 'src/assets/skills.json'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Instalar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Ejecutar script para actualizar README
+        run: node .github/scripts/update-readme.js
+      - name: Subir cambios
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Actualizar skills en README.md
