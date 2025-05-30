@@ -1,3 +1,9 @@
+## Skills
+
+<!-- SKILLS-START -->
+Aquí aparecerán tus skills automáticamente.
+<!-- SKILLS-END -->
+
 <div align="center">
   <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFueHJ1NGRqd2pyNzdocXd1bGxqOTMwZDUxbGJwOTR4N3RjbTc0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wU5GXcDhwLDO7bcKvP/giphy.gif" />
 </div>
