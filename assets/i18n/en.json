@@ -1,0 +1,43 @@
+{
+  "title": "Jarol Rojas - Portfolio",
+  "home": "Home",
+  "experience": "Experience",
+  "education": "Education",
+  "project": "Projects",
+  "skill": "Skills",
+  "contact": "Contact",
+  "welcome": "Welcome to my portfolio",
+  "hello": "Hello",
+  "iamname": "I'm Jarol Rojas",
+  "HOME": {
+    "TEXT1": "This is text 1",
+    "TEXT2": "This is text 2",
+    "TEXT3": "This is text 3",
+    "TEXT4": "This is text 4",
+    "TEXT5": "This is text 5"
+  },
+  "SKILLS": {
+    "FRONTEND": "Frontend",
+    "BACKEND": "Backend",
+    "DATABASES": "Databases"
+  },
+  "CATEGORY": {
+    "FRONTEND": "Frontend",
+    "BACKEND": "Backend",
+    "DEVOPS": "DevOps",
+    "DATABASE": "Database",
+    "OTHER": "Other"
+  },
+  "FOLLOW": "Follow me on Github",
+  "account": {
+    "noBio": "No bio available",
+    "noLocation": "Not specified"
+  },
+  "PORFTOLIO": "Portfolio",
+  "SPAIN": "Spain",
+  "INSTAGRAM": "Instagram",
+  "REDDIT": "Reddit",
+  "EMAIL": "Email",
+  "FOLLOWERS": "Followers",
+  "FOLLOWING": "Following"
+}

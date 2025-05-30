@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Angular",
+    "logo": "assets/logos/angular.svg"
+  },
+  {
+    "name": "TypeScript",
+    "logo": "assets/logos/typescript.svg"
+  },
+  {
+    "name": "JavaScript",
+    "logo": "assets/logos/javascript.svg"
+  },
+  {
+    "name": "HTML5",
+    "logo": "assets/logos/html5.svg"
+  },
+  {
+    "name": "CSS3",
+    "logo": "assets/logos/css3.svg"
+  },
+  {
+    "name": "Python",
+    "logo": "assets/logos/python.svg"
+  },
+  {
+    "name": "Git",
+    "logo": "assets/logos/git.svg"
+  },
+  {
+    "name": "GitHub",
+    "logo": "assets/logos/github.svg"
+  },
+  {
+    "name": "Docker",
+    "logo": "assets/logos/docker.svg"
+  },
+  {
+    "name": "Node.js",
+    "logo": "assets/logos/node.svg"
+  }
+]
