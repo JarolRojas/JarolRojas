@@ -1,3 +1,5 @@
+
+[Leer en Español](README.es.md)
 # 👋 ¡Hola! Soy Jarol Rojas
 
 ¡Bienvenido a mi portfolio personal! Aquí encontrarás información sobre mi experiencia, proyectos, habilidades y formación. Este sitio está desarrollado con Angular y refleja mi pasión por la tecnología y el desarrollo web.
